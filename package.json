@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "\"Project for comp4142\"",
+  "main": "index.js",
+  "scripts": {
+    "Start": "nodemon index.js"
+  },
+  "author": "Daniel Yu",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "mongoose": "^6.7.3",
+    "npm": "^9.1.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
